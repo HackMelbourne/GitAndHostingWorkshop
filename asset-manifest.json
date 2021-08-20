@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GitAndHostingWorkshop/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/GitAndHostingWorkshop/static/js/main.250b1082.chunk.js",
+    "main.js.map": "/GitAndHostingWorkshop/static/js/main.250b1082.chunk.js.map",
+    "runtime-main.js": "/GitAndHostingWorkshop/static/js/runtime-main.fbd19842.js",
+    "runtime-main.js.map": "/GitAndHostingWorkshop/static/js/runtime-main.fbd19842.js.map",
+    "static/js/2.124a64bc.chunk.js": "/GitAndHostingWorkshop/static/js/2.124a64bc.chunk.js",
+    "static/js/2.124a64bc.chunk.js.map": "/GitAndHostingWorkshop/static/js/2.124a64bc.chunk.js.map",
+    "static/js/3.b2697b48.chunk.js": "/GitAndHostingWorkshop/static/js/3.b2697b48.chunk.js",
+    "static/js/3.b2697b48.chunk.js.map": "/GitAndHostingWorkshop/static/js/3.b2697b48.chunk.js.map",
+    "index.html": "/GitAndHostingWorkshop/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/GitAndHostingWorkshop/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.124a64bc.chunk.js.LICENSE.txt": "/GitAndHostingWorkshop/static/js/2.124a64bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbd19842.js",
+    "static/js/2.124a64bc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.250b1082.chunk.js"
+  ]
+}
