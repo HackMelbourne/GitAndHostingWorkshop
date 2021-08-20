@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 // Set the port of our server
-const port = 8000;
+const port = process.env.PORT || 8000;
 
 // Add some middleware
 app.use((req, res, next) => {
