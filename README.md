@@ -1,6 +1,5 @@
 # Git and Hosting workshop
 
-lorem ipsum
+https://hackmelbourne.github.io/GitAndHostingWorkshop/
 
-dolor sit amet
-a different thing
+https://gh-workshop.herokuapp.com
